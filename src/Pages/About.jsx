@@ -1,0 +1,9 @@
+import React from 'react'
+
+const About = () => {
+    return (
+        <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda quis, impedit eligendi laudantium architecto eum magni officiis in ipsam quaerat natus repellendus, magnam odit quisquam quam nesciunt fugit, quibusdam ea reprehenderit dicta commodi! Ab exercitationem in et autem rem enim velit quam laborum, aliquam deleniti qui architecto error suscipit minima magni ex minus doloribus asperiores placeat aut quia reprehenderit. Perspiciatis voluptatem tempore, sint soluta est ex quas eveniet officia veniam beatae alias sed natus quidem provident praesentium esse explicabo magni ab dolorem cumque? Repellendus suscipit iure corrupti enim reprehenderit asperiores dolore tenetur nihil aliquid molestiae quia praesentium, odio dolor accusamus mollitia error alias doloribus, saepe rem magnam? At totam molestias, quam omnis quas, voluptate tenetur ducimus dolorum possimus cumque vero quibusdam alias ipsam fugit aut amet, quidem blanditiis voluptatum velit? Necessitatibus doloribus modi vitae voluptate fugit natus minus, ad vel saepe distinctio doloremque, ipsum accusantium dolore enim tempore animi. Ratione nemo voluptas recusandae delectus, eveniet totam odio quisquam quaerat consectetur tempora assumenda corrupti quo sint quia doloribus dolores ab dolore, culpa officia iste accusamus, quis autem nulla unde. Nobis excepturi dolorum ipsum ipsam necessitatibus voluptas expedita a reicizendis. Asperiores blanditiis, error doloribus facere at soluta doloremque dignissimos recusandae cum totam.</div>
+    )
+}
+
+export default About
